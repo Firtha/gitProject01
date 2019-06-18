@@ -1,1 +1,2 @@
 "Preparing next merge" 
+"Next merge is ready to go" 
