@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "Preparing next merge" 
 "Next merge is ready to go" 
+=======
+"Touch this file" 
+>>>>>>> lolaDisplay
